@@ -13,8 +13,10 @@ https://youtu.be/_0OWLNxk3Js
 
 # Perceptron-SmileNoSmile
 
-C# perceptron algorithm for Smile/noSmile identification.
+C# perceptron algorithm for Smile/noSmile identification. Percptron with 32 (16x16) inputs.
 
 Firstly add several images in data, then press teach button for training. And if you change the image and press Identify button, you see result of identification.
+
+https://youtu.be/hpKF2Qar8V8
 
 ![image](https://github.com/tltrus/NEURAL-NETWORKs/assets/77125487/6f6b7a9b-faad-4cb3-85f6-c6a92bf8ec5c)
