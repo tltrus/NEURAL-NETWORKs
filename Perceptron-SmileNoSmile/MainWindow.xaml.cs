@@ -10,7 +10,7 @@ namespace NN
     {
         int oldnumcell = 0;
         Perceptron perceptron;
-        int inputs_num = 36; // inputs 16х16
+        int inputs_num = 36; // inputs 6х6
         Map Map = new Map();
 
 
