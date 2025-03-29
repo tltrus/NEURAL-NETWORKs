@@ -1,7 +1,17 @@
 # NEURAL-NETWORKs
  C# algorithms
 
- # imgMINST-identify
+## Hopfield-Network
+
+C# app with Hopfield network algorithm.
+
+- Youtube: 
+- Rutube: 
+
+![image](https://github.com/user-attachments/assets/61219036-4a3b-4991-8dbf-e5e3c1ce7478)
+
+
+## imgMINST-identify
 
 C# application shows how work with MINST files and neural network (back propagation).
 NN works not good, it needs to be improved. Nevertheless, the program can be used as an example when creating the best solutions.
@@ -11,7 +21,7 @@ NN works not good, it needs to be improved. Nevertheless, the program can be use
 ![image](https://github.com/tltrus/NEURAL-NETWORKs/assets/77125487/a58f84f1-0ea4-49ff-9d8e-1ec9f4e4bc77)
 
 
-# Perceptron-SmileNoSmile
+## Perceptron-SmileNoSmile
 
 C# perceptron algorithm for Smile/noSmile identification. Percptron with 32 (16x16) inputs.
 
