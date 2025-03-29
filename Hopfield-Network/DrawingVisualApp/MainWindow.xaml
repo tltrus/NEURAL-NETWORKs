@@ -1,0 +1,27 @@
+﻿<Window x:Class="DrawingVisualApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DrawingVisualApp"
+        mc:Ignorable="d"
+        Title="Hopfield Network" Height="356" Width="401">
+    <Grid>
+        <WrapPanel Margin="5">
+            <StackPanel>
+                <local:DrawingVisualClass x:Name="g" Background="WhiteSmoke" Height="262" Margin="5" Width="263" MouseMove="g_MouseMove" MouseDown="g_MouseDown"/>
+                <WrapPanel>
+                    <Button x:Name="btnClear" Content="Clear map" HorizontalAlignment="Left" Height="30" Margin="5" VerticalAlignment="Top" Width="74" Click="btnClear_Click" />
+                    <Button Name="btnNext" Content=">>" HorizontalAlignment="Left" Height="30" Margin="5" VerticalAlignment="Top" Width="44" Click="btnNext_Click" />
+                    <Label Name="lb2" Content="..." HorizontalAlignment="Left" Height="30" VerticalAlignment="Center" Width="130"/>
+                </WrapPanel>
+            </StackPanel>
+            <StackPanel>
+                <Button x:Name="btnAdd" Content="Add Image" HorizontalAlignment="Left" Height="31" Margin="5" VerticalAlignment="Top" Width="64" RenderTransformOrigin="0.581,-1.415" FontSize="10" Click="btnAdd_Click" />
+                <Label x:Name="lbl1" Content="..." HorizontalAlignment="Left" Margin="5" VerticalAlignment="Top" FontWeight="Bold" FontSize="14"/>
+                <Button x:Name="btnTeach" Content="Teach" HorizontalAlignment="Left" Height="31" Margin="5" VerticalAlignment="Top" Width="64" Click="btnTeach_Click"/>
+                <Button x:Name="btnFind" Content="Find" HorizontalAlignment="Left" Height="31" Margin="5" VerticalAlignment="Top" Width="64" FontWeight="Bold" Click="btnFind_Click"/>
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</Window>
