@@ -5,8 +5,8 @@
 
 C# app with Hopfield network algorithm.
 
-- Youtube: 
-- Rutube: 
+- Youtube: https://youtu.be/lXWFJR1lARE
+- Rutube: https://rutube.ru/video/e7c21006ac548c292b88646f23e7c344/
 
 ![image](https://github.com/user-attachments/assets/61219036-4a3b-4991-8dbf-e5e3c1ce7478)
 
