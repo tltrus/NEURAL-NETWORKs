@@ -21,15 +21,15 @@ NN works not good, it needs to be improved. Nevertheless, the program can be use
 ![image](https://github.com/tltrus/NEURAL-NETWORKs/assets/77125487/a58f84f1-0ea4-49ff-9d8e-1ec9f4e4bc77)
 
 
-## Kohonen-Net-Classification-2D
-## Kohonen-Net-Classification-Console
+## Kohonen-Net-Classification-2D + Kohonen-Net-Classification-Console
 
 C# app with **Kohonen** network **classification** algorithm.
 
 - Youtube: 
 - Rutube: 
 
-![image](https://github.com/user-attachments/assets/519b089f-c562-4bd3-aa71-2ff5c52f048d)
+![image](https://github.com/user-attachments/assets/c6e10ddf-f1b0-4447-8cf7-b87a821924d7)
+
 
 
 ## Perceptron-SmileNoSmile
