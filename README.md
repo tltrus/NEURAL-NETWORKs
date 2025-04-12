@@ -3,7 +3,7 @@
 
 ## Hopfield-Network
 
-C# app with Hopfield network algorithm.
+C# app with **Hopfield** network algorithm.
 
 - Youtube: https://youtu.be/lXWFJR1lARE
 - Rutube: https://rutube.ru/video/e7c21006ac548c292b88646f23e7c344/
@@ -19,6 +19,17 @@ NN works not good, it needs to be improved. Nevertheless, the program can be use
 - Youtube: https://youtu.be/_0OWLNxk3Js
  
 ![image](https://github.com/tltrus/NEURAL-NETWORKs/assets/77125487/a58f84f1-0ea4-49ff-9d8e-1ec9f4e4bc77)
+
+
+## Kohonen-Net-Classification-2D
+## Kohonen-Net-Classification-Console
+
+C# app with **Kohonen** network **classification** algorithm.
+
+- Youtube: 
+- Rutube: 
+
+![image](https://github.com/user-attachments/assets/519b089f-c562-4bd3-aa71-2ff5c52f048d)
 
 
 ## Perceptron-SmileNoSmile
