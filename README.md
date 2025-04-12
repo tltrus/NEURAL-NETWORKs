@@ -29,7 +29,7 @@ C# app with **Kohonen** network **classification** algorithm.
 - Rutube: 
 
 ![image](https://github.com/user-attachments/assets/c6e10ddf-f1b0-4447-8cf7-b87a821924d7)
-
+![image](https://github.com/user-attachments/assets/cfd1d272-3149-49c7-b9cc-c0ccce1ae205)
 
 
 ## Perceptron-SmileNoSmile
