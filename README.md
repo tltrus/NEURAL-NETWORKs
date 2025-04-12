@@ -25,8 +25,8 @@ NN works not good, it needs to be improved. Nevertheless, the program can be use
 
 C# app with **Kohonen** network **classification** algorithm.
 
-- Youtube: 
-- Rutube: 
+- Youtube: https://youtu.be/SPEubw3y9Aw
+- Rutube: https://rutube.ru/video/693dd8a3b83f07b4f14e3f37320df412/
 
 ![image](https://github.com/user-attachments/assets/c6e10ddf-f1b0-4447-8cf7-b87a821924d7)
 ![image](https://github.com/user-attachments/assets/cfd1d272-3149-49c7-b9cc-c0ccce1ae205)
