@@ -31,6 +31,15 @@ C# app with **Kohonen** network **classification** algorithm.
 ![image](https://github.com/user-attachments/assets/c6e10ddf-f1b0-4447-8cf7-b87a821924d7)
 ![image](https://github.com/user-attachments/assets/cfd1d272-3149-49c7-b9cc-c0ccce1ae205)
 
+## Perceptron-Simple
+
+C# perceptron algorithm. Simple console application.
+
+- Youtube:
+- Rutube:
+
+![image](https://github.com/user-attachments/assets/a6aafddd-c88b-4e1e-a7cd-ca8d07a114a9)
+
 
 ## Perceptron-SmileNoSmile
 
