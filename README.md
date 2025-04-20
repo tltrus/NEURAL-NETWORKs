@@ -35,8 +35,8 @@ C# app with **Kohonen** network **classification** algorithm.
 
 C# perceptron algorithm. Simple console application.
 
-- Youtube:
-- Rutube:
+- Youtube: https://youtu.be/989wncySmsg
+- Rutube: https://rutube.ru/video/d7490eff796ac45f9b48af5c2efdb402/
 
 ![image](https://github.com/user-attachments/assets/a6aafddd-c88b-4e1e-a7cd-ca8d07a114a9)
 
